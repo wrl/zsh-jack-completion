@@ -1,0 +1,18 @@
+            _           _   
+  __      _| |__   __ _| |_ 
+  \ \ /\ / / '_ \ / _` | __|
+   \ V  V /| | | | (_| | |_ 
+    \_/\_/ |_| |_|\__,_|\__|
+
+   these are some completion functions for the commandline
+   JACK patching utilities jack_connect and jack_disconnect.
+
+   they complete port names for you so you don't have to
+   copypasta them from jack_lsp.
+
+   uses the old-style zsh completion functions...haven't even
+   started porting it to the new-style. i also do not have any
+   idea how you install these. let me know if you find out.
+
+                             wrl@illest.net
+
